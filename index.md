@@ -11,3 +11,4 @@ title: 私のレシピサイト
 - [黒酢と太白ごま油の温野菜ドレッシング](warm-veggie-dressing.md)
 - [炭水化物控えめきな粉餅](kinako-mochi.md)
 - [高野豆腐と干し椎茸のだし浸し（みりん不使用）](steamed-tofu-shiitake-dashi.md)
+- [ココアマグケーキ（高たんぱく・低糖質）](ocoa-mugcake.md)
