@@ -12,3 +12,4 @@ title: 私のレシピサイト
 - [炭水化物控えめきな粉餅](kinako-mochi.md)
 - [高野豆腐と干し椎茸のだし浸し（みりん不使用）](steamed-tofu-shiitake-dashi.md)
 - [ココアマグケーキ（高たんぱく・低糖質）](ocoa-mugcake.md)
+- [自家製ミントで爽やかモヒート（アルコール＆ノンアル）](mojito_freshmint.md)
