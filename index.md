@@ -15,3 +15,4 @@ title: 私のレシピサイト
 - [自家製ミントで爽やかモヒート（アルコール＆ノンアル）](mojito_freshmint.md)
 - [素材の味を楽しむナチュラルモヒート（ノンアル）](mojito_natural_style.md)
 - [おうちにあるもので！節約モヒート風ドリンク](mojito_economy_version.md)
+- [紫蘇の風味控えめドレッシング＆ペースト3選](shiso_dressing_set.md)
