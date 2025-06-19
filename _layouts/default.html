@@ -1,22 +1,24 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
-
-  {%- include head.html -%}
-
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        max-width: 700px;
+        margin: 2em auto;
+        padding: 0 1em;
+        line-height: 1.6;
+      }
+      h1 {
+        font-size: 1.8em;
+        margin-bottom: 0.5em;
+      }
+    </style>
+  </head>
   <body>
-
-    {%- include header.html -%}
-
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-
-    {%- include footer.html -%}
-
-    {%- include sub-footer.html -%}
-
+    <h1>{{ page.title }}</h1>
+    {{ content }}
   </body>
-
 </html>
