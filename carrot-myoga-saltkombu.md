@@ -1,6 +1,6 @@
 ---
 title: にんじんと茗荷の塩昆布あえ
-layout: recipe
+layout: default
 ---
 
 ### 🥕 にんじんと茗荷の塩昆布あえ（2人分）
