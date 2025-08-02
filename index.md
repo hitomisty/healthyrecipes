@@ -18,3 +18,4 @@ title: 🍽️ ヘルシーレシピ
 - [にんじんと茗荷の塩昆布あえ](carrot-myoga-saltkombu)
 - [和ハーブでさっぱり！しそレモネード（赤しそ・青しそ）](shiso_lemonade.md)
 - [鮮やかで爽やか！赤しそシロップの作り方](shiso_syrup.md)
+- [かき氷にぴったり！赤しそ濃縮シロップの作り方](shiso_kakigori_syrup.md)
